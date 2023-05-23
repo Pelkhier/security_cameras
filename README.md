@@ -11,7 +11,7 @@ This app in not in production mode, it still in dev mode so you have to run the 
 
 ### 2. Tauri
 
-- you can follow the instractions https://tauri.app or by simply run this command after installing cargo:
+- you can follow the instractions https://tauri.app or by simply running this command after installing cargo:
 
 ```bash
 $ cargo install create-tauri-app
