@@ -27,9 +27,9 @@ $ cargo install create-tauri-app
 
 ### 5. Environment Variables
 
-- OPENCV_INCLUDE_PATHS which can be set to where "include" folder exists, ".../opencv\build\include".
+- OPENCV_INCLUDE_PATHS which can be set to where "include" folder exists, "...\opencv\build\include".
 - OPENCV_LINK_LIBS which can be set to the value "opencv_world460" (the number 460 indecates to the OpenCV version).
-- OPENCV_LINK_PATHS which contains the path to the "lib" folder, ".../opencv\build\x64\vc15\lib".
+- OPENCV_LINK_PATHS which contains the path to the "lib" folder, "...\opencv\build\x64\vc15\lib".
 
 ## Run:
 
