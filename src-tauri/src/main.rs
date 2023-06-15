@@ -9,7 +9,6 @@ mod images;
 mod record;
 use images::*;
 use record::*;
-// Learn more about Tauri commands at https://tauri.app/v1/guides/features/command
 
 fn main() {
     let stop_signal = Arc::new(AtomicBool::new(false));

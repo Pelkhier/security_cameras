@@ -90,7 +90,7 @@ function App() {
           ))}
         </div>
 
-        <div className="flex flex-row gap-2 h-[70vh] flex-wrap justify-center overflow-y-scroll mb-12 border-2 border-white rounded-lg py-8">
+        <div className="flex flex-row gap-2 h-[70vh] flex-wrap justify-center items-start overflow-y-scroll mb-12 border-2 border-white rounded-lg py-8">
           {images.map((image, i) => (
             <img
               className="w-[20%] rounded-md"

@@ -1,17 +1,17 @@
 # Experemental OpenCV Desktop App
 
-This app in not in production mode, it still in dev mode so you have to run the code to get the executable app, and for that you need to some requirements installed in your system. (The app is build for Windows 10/11 OS).
+This app in not in production mode, it still in dev mode so you have to run the code to get the executable app, and for that you need to have some requirements installed in your system. (The app is build for Windows 10/11 OS).
 
 ## Requirement:
 
 ### 1. Rust and Cargo
 
-- you can follow the instractions https://www.rust-lang.org/tools/install
+- you can follow the instructions https://www.rust-lang.org/tools/install
 - you might need to install node.js as will https://nodejs.org/en/download
 
 ### 2. Tauri
 
-- you can follow the instractions https://tauri.app or by simply running this command after installing cargo:
+- you can follow the instructions https://tauri.app or by simply running this command after installing cargo:
 
 ```bash
 $ cargo install create-tauri-app
